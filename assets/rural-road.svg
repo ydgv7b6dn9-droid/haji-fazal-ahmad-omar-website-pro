@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Rural road scene</title>
+  <desc id="desc">A warm road in a rural area with distant hills, power lines, and people walking.</desc>
+  <defs>
+    <linearGradient id="sky3" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dfe7d0"/>
+      <stop offset="100%" stop-color="#e7d3a4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#sky3)"/>
+  <path d="M0 760 L1200 700 L1200 1200 L0 1200 Z" fill="#d9d2b5"/>
+  <path d="M0 850 L1200 820 L1200 1200 L0 1200 Z" fill="#c7bb93"/>
+
+  <g stroke="#656b4d" stroke-width="18" stroke-linecap="round" fill="none">
+    <path d="M120 780 L450 780"/>
+    <path d="M710 780 L1080 780"/>
+  </g>
+
+  <g stroke="#4b4a45" stroke-width="12">
+    <line x1="150" y1="350" x2="150" y2="820"/>
+    <line x1="260" y1="350" x2="260" y2="820"/>
+    <line x1="370" y1="350" x2="370" y2="820"/>
+    <line x1="480" y1="350" x2="480" y2="820"/>
+    <line x1="590" y1="350" x2="590" y2="820"/>
+    <line x1="700" y1="350" x2="700" y2="820"/>
+    <line x1="810" y1="350" x2="810" y2="820"/>
+    <line x1="920" y1="350" x2="920" y2="820"/>
+    <line x1="1030" y1="350" x2="1030" y2="820"/>
+  </g>
+
+  <g stroke="#ffffff" stroke-width="18" stroke-linecap="round" fill="none">
+    <path d="M150 920 L260 920"/>
+    <path d="M470 920 L590 920"/>
+    <path d="M820 920 L930 920"/>
+  </g>
+
+  <g opacity="0.7">
+    <path d="M0 350 L1200 350" stroke="#fff9d8" stroke-width="4"/>
+    <path d="M0 480 L1200 480" stroke="#f0df9c" stroke-width="3"/>
+  </g>
+
+  <g>
+    <circle cx="300" cy="810" r="18" fill="#1a1a1a"/>
+    <circle cx="420" cy="810" r="18" fill="#1a1a1a"/>
+    <circle cx="760" cy="810" r="18" fill="#1a1a1a"/>
+    <circle cx="870" cy="810" r="18" fill="#1a1a1a"/>
+  </g>
+
+  <g fill="#343126" opacity="0.5">
+    <rect x="200" y="740" width="10" height="200"/>
+    <rect x="990" y="740" width="10" height="200"/>
+  </g>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

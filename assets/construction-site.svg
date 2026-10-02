@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Construction site</title>
+  <desc id="desc">An unfinished building with scaffolding, temporary supports, and a development site.</desc>
+  <defs>
+    <linearGradient id="sky2" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e6f0e4"/>
+      <stop offset="100%" stop-color="#d7d7c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#sky2)"/>
+  <rect x="60" y="740" width="1080" height="240" fill="#d7d3c4"/>
+
+  <g fill="#b6a98b">
+    <rect x="180" y="400" width="350" height="260"/>
+    <rect x="620" y="360" width="360" height="300"/>
+  </g>
+
+  <g stroke="#7e7868" stroke-width="14" fill="none">
+    <path d="M200 420 L520 420"/>
+    <path d="M200 500 L520 500"/>
+    <path d="M200 580 L520 580"/>
+    <path d="M660 390 L960 390"/>
+    <path d="M660 470 L960 470"/>
+    <path d="M660 550 L960 550"/>
+  </g>
+
+  <g stroke="#a49d88" stroke-width="8" fill="none">
+    <line x1="230" y1="350" x2="230" y2="760"/>
+    <line x1="300" y1="350" x2="300" y2="760"/>
+    <line x1="370" y1="350" x2="370" y2="760"/>
+    <line x1="440" y1="350" x2="440" y2="760"/>
+    <line x1="690" y1="300" x2="690" y2="760"/>
+    <line x1="760" y1="300" x2="760" y2="760"/>
+    <line x1="830" y1="300" x2="830" y2="760"/>
+    <line x1="900" y1="300" x2="900" y2="760"/>
+  </g>
+
+  <g fill="#8e8d87" opacity="0.7">
+    <rect x="265" y="260" width="190" height="18"/>
+    <rect x="720" y="240" width="210" height="18"/>
+  </g>
+
+  <g stroke="#d8b573" stroke-width="12" stroke-linecap="round">
+    <path d="M130 720 L210 720"/>
+    <path d="M980 720 L1040 720"/>
+  </g>
+
+  <g fill="#9a9a95">
+    <rect x="90" y="780" width="160" height="70"/>
+    <rect x="950" y="780" width="180" height="70"/>
+  </g>
+
+  <g fill="#d7be87" opacity="0.8">
+    <circle cx="330" cy="820" r="26"/>
+    <circle cx="770" cy="820" r="26"/>
+  </g>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

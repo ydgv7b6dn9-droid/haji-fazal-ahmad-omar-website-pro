@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Roundabout at night</title>
+  <desc id="desc">Circular City roundabout with festive lights and illuminated monument.</desc>
+  <defs>
+    <linearGradient id="nightSky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0c1627"/>
+      <stop offset="100%" stop-color="#1a2f4e"/>
+    </linearGradient>
+    <linearGradient id="roadGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#6d6d6d"/>
+      <stop offset="100%" stop-color="#303030"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#nightSky)"/>
+  <circle cx="600" cy="700" r="350" fill="#dfffbf" opacity="0.12"/>
+  <circle cx="600" cy="700" r="250" fill="#9bdb66" opacity="0.25"/>
+  <circle cx="600" cy="700" r="300" fill="none" stroke="#ffeb5c" stroke-width="20"/>
+  <circle cx="600" cy="700" r="220" fill="none" stroke="#fecf52" stroke-width="18"/>
+  <circle cx="600" cy="700" r="170" fill="#d4f2ae" opacity="0.18"/>
+
+  <g>
+    <path d="M600 225 L660 420 L600 700 L540 420 Z" fill="#f1f1ef"/>
+    <path d="M600 225 L645 410 L600 710 L555 410 Z" fill="#d8d5cf"/>
+    <path d="M600 225 L615 400 L600 700 L585 400 Z" fill="#f7f3ef"/>
+    <path d="M600 225 L680 330 L600 710 L520 330 Z" fill="#e5e0d6" opacity="0.8"/>
+    <circle cx="600" cy="255" r="18" fill="#ff4040"/>
+    <circle cx="600" cy="700" r="12" fill="#ff6b6b"/>
+  </g>
+
+  <g stroke="#f4d75b" stroke-width="8" fill="none" stroke-linecap="round">
+    <path d="M350 540 C430 450, 500 400, 600 400 C700 400, 770 450, 850 540"/>
+    <path d="M350 860 C430 940, 500 980, 600 980 C700 980, 770 940, 850 860"/>
+  </g>
+
+  <g>
+    <rect x="0" y="970" width="1200" height="230" fill="url(#roadGrad)"/>
+    <rect x="0" y="985" width="1200" height="32" fill="#ffdd57"/>
+    <rect x="0" y="1017" width="1200" height="20" fill="#f9b000"/>
+  </g>
+
+  <g>
+    <circle cx="260" cy="1080" r="34" fill="#0f1a2c"/>
+    <circle cx="340" cy="1080" r="34" fill="#0f1a2c"/>
+    <circle cx="950" cy="1080" r="34" fill="#0f1a2c"/>
+    <circle cx="1030" cy="1080" r="34" fill="#0f1a2c"/>
+  </g>
+
+  <g fill="#0d1f2d">
+    <rect x="100" y="650" width="120" height="90" rx="8"/>
+    <rect x="980" y="650" width="120" height="90" rx="8"/>
+    <rect x="100" y="220" width="120" height="90" rx="8"/>
+    <rect x="980" y="220" width="120" height="90" rx="8"/>
+  </g>
+
+  <g fill="#ffffff" opacity="0.6">
+    <rect x="240" y="0" width="24" height="80"/>
+    <rect x="300" y="0" width="24" height="80"/>
+    <rect x="860" y="0" width="24" height="80"/>
+    <rect x="920" y="0" width="24" height="80"/>
+  </g>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

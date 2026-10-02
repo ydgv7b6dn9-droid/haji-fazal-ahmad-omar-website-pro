@@ -38,6 +38,13 @@ img {
   max-width: 100%;
 }
 
+figcaption {
+  color: var(--muted);
+  text-align: center;
+  margin-top: 12px;
+  font-size: 0.9rem;
+}
+
 .container {
   width: min(1120px, calc(100% - 32px));
   margin: 0 auto;
@@ -254,6 +261,7 @@ p {
   width: 100%;
   height: 560px;
   object-fit: cover;
+  background: linear-gradient(180deg, #edf5f3, #dfeee9);
 }
 
 .badge {
@@ -330,7 +338,8 @@ p {
 
 .mission-card,
 .project-card,
-.news-item {
+.news-item,
+.gallery-item {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 22px;
@@ -367,6 +376,7 @@ p {
   width: 100%;
   height: 260px;
   object-fit: cover;
+  background: linear-gradient(180deg, #e9f3f1, #eef2f5);
 }
 
 .project-body {
@@ -382,6 +392,25 @@ p {
   font-size: 0.75rem;
   font-weight: 700;
   margin-bottom: 12px;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.gallery-item {
+  padding: 12px;
+  overflow: hidden;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #edf5f3, #f0efe8);
 }
 
 .news-list {
@@ -451,6 +480,7 @@ p {
   .hero-grid,
   .about-grid,
   .project-grid,
+  .gallery-grid,
   .mission-grid,
   .news-list,
   .footer-grid {
@@ -505,3 +535,4 @@ p {
     gap: 18px;
   }
 }
+
